@@ -26,7 +26,7 @@ Publications
 
   Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (ESIF AIML 2026)
 
-- [Statistical inference under performativity](https://arxiv.org/abs/2505.18493).
+- [Statistical Inference under Performativity](https://arxiv.org/abs/2505.18493).
 
   X. Li\*, Y. Li\*, **H. Zhong**\*, L. Lei, Z. Deng.
 
