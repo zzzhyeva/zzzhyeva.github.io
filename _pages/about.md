@@ -10,7 +10,7 @@ redirect_from:
 Hi! Welcome to my website! I am Huiying Zhong, a Ph.D. student at the [Operations Research Center, MIT](https://orc.mit.edu/). 
 I am fortunate to be co-advised by [Prof. Ali Aouad](https://www.aaouad.com/) and [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/).
 
-My research interests center on the the interplay between human preferences/behavior and intelligent systems, with applications to the educational and cultural sectors. 
+My research interests center on the interplay between human preferences/behavior and intelligent systems, with applications to the educational and cultural sectors. 
 
 Prior to joining MIT, I graduated from [School of Mathematical Sciences, Peking University](http://english.math.pku.edu.cn/) with a bachelor's degree in Statistics. 
 I grew up in Hunan, China.
