@@ -15,7 +15,7 @@ My research focuses on analyzing, designing, and evaluating human-GenAI interact
 Prior to joining MIT, I graduated from [School of Mathematical Sciences, Peking University](http://english.math.pku.edu.cn/) with a bachelor's degree in Statistics. 
 I grew up in Hunan, China.
 
-Publications
+Publications and preprints
 ======
 
 - [Human-AI Productivity Paradoxes: Modeling the Interplay of Skill, Effort, and AI Assistance](https://arxiv.org/abs/2605.11350).
@@ -34,7 +34,7 @@ Publications
 
 - [Provable Pluralistic Alignment: Multi-Party RLHF under Offline Human Feedback](https://arxiv.org/abs/2403.05006).
 
-**H. Zhong**, T. Gao, S. Wu, L. Zhang, W. Su, Z. Deng
+  **H. Zhong**, T. Gao, S. Wu, L. Zhang, W. Su, Z. Deng
 
 (\* denotes alphabetical order.)
 
