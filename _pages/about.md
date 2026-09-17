@@ -10,7 +10,7 @@ redirect_from:
 Hi! Welcome to my website! I am Huiying Zhong, a Ph.D. student at the [Operations Research Center, MIT](https://orc.mit.edu/). 
 I am fortunate to be co-advised by [Prof. Ali Aouad](https://www.aaouad.com/) and [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/).
 
-My research combines mathematical modeling, algorithm design, and causal inference to analyze, optimize, and evaluate the interplay between human preferences/ behavior and intelligent systems, with applications in educational and cultural sectors.
+My research focuses on understanding, designing, and evaluating human-GenAI interaction. I combine mathematical modeling, algorithm design, and causal inference to study how GenAI systems shape human productivity and behavior, how interactions with LLMs can be adaptively optimized, and how AI-augmented systems affect human outcomes in real-world settings.
 
 Prior to joining MIT, I graduated from [School of Mathematical Sciences, Peking University](http://english.math.pku.edu.cn/) with a bachelor's degree in Statistics. 
 I grew up in Hunan, China.
